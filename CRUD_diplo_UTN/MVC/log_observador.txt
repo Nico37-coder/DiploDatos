@@ -1,0 +1,56 @@
+2020-07-21 15:12:00.196400 - Alta de Registro
+2020-07-21 15:15:09.936051 - Modificación de Registro
+2020-07-21 15:16:22.642404 - Baja de Registro
+2020-07-21 15:22:36.112358 - Alta de Registro
+2020-07-21 15:25:05.022986 - Alta de Registro
+2020-07-21 15:25:06.688354 - Alta de Registro
+2020-07-21 15:25:06.688354 - Alta de Registro
+2020-07-21 15:27:10.972350 - Alta de Registro
+2020-07-21 15:27:10.972350 - Alta de Registro
+2020-07-21 15:27:10.972350 - Alta de Registro
+2020-07-21 15:29:21.032527 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:28.311097 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:28.311097 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:37.090726 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:37.090726 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:37.090726 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:44.524398 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:44.524398 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:44.525394 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:29:44.525394 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:30:24.821370 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:30:24.822386 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:30:24.822386 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:30:24.823327 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:30:24.823327 - Baja de Registro
+2020-07-21 15:32:39.594119 - Baja de Registro
+2020-07-21 15:33:31.571119 - Baja de Registro
+2020-07-21 15:33:31.571119 - Alta de Registro
+2020-07-21 15:34:00.041944 - Baja de Registro
+2020-07-21 15:34:00.041944 - Alta de Registro
+2020-07-21 15:34:00.042942 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:35:31.652058 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:36:35.025805 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:37:49.972673 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:37:49.973661 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:54:45.864959 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:54:45.864959 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:54:45.864959 - Alta de Registro
+2020-07-21 15:55:09.179948 - Alta de Registro
+2020-07-21 15:55:11.948229 - Alta de Registro
+2020-07-21 15:55:11.948229 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:55:13.406912 - Alta de Registro
+2020-07-21 15:55:13.406912 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:55:13.406912 - Alta de Registro Creado Aleatoriamente
+2020-07-21 15:56:23.370297 - Alta de Registro
+2020-07-21 15:56:27.243714 - Alta de Registro
+2020-07-21 15:56:27.243714 - Baja de Registro
+2020-07-21 15:58:50.626273 - Alta de Registro
+2020-07-21 15:58:50.627237 - Baja de Registro
+2020-07-21 15:58:50.627237 - Modificación de Registro
+2022-02-16 16:39:51.078545 - Alta de Registro
+2022-02-16 16:39:53.916177 - Alta de Registro
+2022-02-16 16:39:53.931404 - Alta de Registro Creado Aleatoriamente
+2022-02-16 16:39:58.680652 - Alta de Registro
+2022-02-16 16:39:58.695903 - Alta de Registro Creado Aleatoriamente
+2022-02-16 16:39:58.711528 - Baja de Registro
