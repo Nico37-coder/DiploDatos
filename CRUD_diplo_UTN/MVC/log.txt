@@ -71,3 +71,5 @@
 2022-02-16 16:39:51.084691-Alta de registro
 2022-02-16 16:39:53.931404-Registro creado aleatoriamente
 2022-02-16 16:39:58.711528-Registro eliminado
+2022-02-17 16:46:15.965999-Registro eliminado
+2022-02-17 16:46:25.013500-Registro creado aleatoriamente

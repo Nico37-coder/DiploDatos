@@ -54,3 +54,6 @@
 2022-02-16 16:39:58.680652 - Alta de Registro
 2022-02-16 16:39:58.695903 - Alta de Registro Creado Aleatoriamente
 2022-02-16 16:39:58.711528 - Baja de Registro
+2022-02-17 16:46:15.965999 - Baja de Registro
+2022-02-17 16:46:24.982447 - Baja de Registro
+2022-02-17 16:46:24.997878 - Alta de Registro Creado Aleatoriamente
